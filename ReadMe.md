@@ -1,6 +1,6 @@
 # Electron ShoppingList Desktop App
 
-This is a cross platform shoppinglist desktop application built on electron
+Here is a cross platform shoppinglist desktop application built with ElectronJs
 
 ### Version
 1.0.0
